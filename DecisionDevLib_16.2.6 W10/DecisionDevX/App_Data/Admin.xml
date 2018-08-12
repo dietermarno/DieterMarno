@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Home" NavigateUrl="abertura.aspx" />
+  <item Text="Cadastros">
+    <item Text="Cadastro de Administradores" NavigateUrl="administradores.aspx" />
+    <item Text="Cadastro de Empresas" NavigateUrl="empresas.aspx" />
+  </item>
+</items>

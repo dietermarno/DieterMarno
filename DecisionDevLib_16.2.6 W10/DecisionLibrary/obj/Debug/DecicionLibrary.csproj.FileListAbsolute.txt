@@ -1,0 +1,30 @@
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\bin\Debug\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\bin\Debug\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\obj\Debug\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\obj\Debug\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\obj\Debug\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\bin\Debug\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\bin\Debug\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\obj\Debug\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\obj\Debug\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionLibrary\obj\Debug\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\bin\Debug\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\bin\Debug\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Debug\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Debug\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Debug\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\bin\Debug\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\bin\Debug\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Debug\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Debug\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Debug\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\bin\Debug\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\bin\Debug\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Debug\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Debug\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Debug\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\bin\Debug\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\bin\Debug\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Debug\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Debug\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Debug\DecisionDatabase.pdb

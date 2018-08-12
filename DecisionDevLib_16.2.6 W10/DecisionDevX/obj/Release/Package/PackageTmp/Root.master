@@ -1,0 +1,94 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Root.master.cs" Inherits="Decision.RootMaster" %>
+
+<%@ Register assembly="DevExpress.Web.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="Content/Site.css" />
+    <script src="Scripts/jquery-1.12.3.min.js"></script>
+    <script src="Scripts/jquery-ui.min.js"></script>
+    <script src="Scripts/notify.min.js"></script>
+    <script src="Scripts/notify-metro.js"></script>
+    <script type="text/javascript">
+
+        function AtualizaTamanhoDIV()
+        {
+            //*****************************************
+            //* Atualiza o tamanho da DIV da conteúdos
+            //*****************************************
+            var containerHeight = ASPxClientUtils.GetDocumentClientHeight();
+            var containerWidth = ASPxClientUtils.GetDocumentClientWidth();
+        }
+    </script>
+</head>
+<body runat="server" id="Body">
+    <form id="frmPrincipal" runat="server">
+        <!-- *** Painel superior *** -->
+        <dx:ASPxPanel ID="pnlEsquerdo" runat="server" Width="280px" FixedPosition="WindowLeft" Collapsible="true" CollapseAtWindowInnerWidth="900">
+            <PanelCollection>
+                <dx:PanelContent runat="server">
+                    <!-- *** Menu Principal *** -->
+                    <dx:ASPxNavBar ID="navMenu" Width="280px" runat="server" DataSourceID="XmlDataSourceHeader" AutoCollapse="true" SaveStateToCookiesID="Decision.MenuPrincipal" SaveStateToCookies="True" CssClass="TextoCinza16" OnPreRender="navMenu_PreRender">
+                        <Paddings PaddingLeft="5px" />
+                        <Border BorderWidth="0px" />
+                        <BorderTop BorderWidth="1px" />
+                        <ItemStyle Paddings-PaddingLeft="10px" Paddings-PaddingRight="10px" >
+                        <Paddings PaddingLeft="10px" PaddingRight="10px"></Paddings>
+                        </ItemStyle>
+                    </dx:ASPxNavBar>
+                    <!-- *** Menu Configurações *** -->
+                    
+                </dx:PanelContent>
+            </PanelCollection>
+        </dx:ASPxPanel>
+        <dx:ASPxPanel ID="pnlTopo" ClientInstanceName="pnlTopo" runat="server" Width="200px" Height="50px" FixedPosition="WindowTop">
+            <PanelCollection>
+                <dx:PanelContent runat="server">
+                    <div id="divConteudo" style="min-width: 700px; min-height: 50px;" >
+                        <div id="divLogo" runat="server" style="display:inline-block; vertical-align:top; padding-top: 0px;">
+                            <img src="/Images/decision.png" />
+                        </div>
+                        <div id="divEmpresa" runat="server" style="display:inline-block; vertical-align:top; padding-top: 3px; padding-left: 20px;">
+                            <span class="TextoCinza20"><%=UserLoginInfo%></span>
+                        </div>
+                        <div id="divOpcoes" runat="server" style="display:inline-block; padding-top: 0px; float:right;">
+                            <div id="divLoggedOff" runat="server" align="right">
+                                <a href="conectar.aspx" runat="server" class="LinkTextoF16">
+                                    Conectar
+                                </a>
+                                &nbsp;|&nbsp;
+                                <a href="registrar.aspx" runat="server" class="LinkTextoF16">
+                                    Cadastrar
+                                </a>
+                            </div>
+                            <div id="divLoggedIn" runat="server" align="right" style="vertical-align:top;">
+                                <asp:Label ID="lblUsuario" runat="server" Text="" CssClass="TextoCinza11" />
+                                <br />
+                                <asp:Label ID="lblEmpresa" runat="server" Text="" CssClass="TextoCinza11" />
+                                <br />
+                                <a href="altera_senha.aspx" class="LinkTextoF16">
+                                    Segurança
+                                </a>
+                                &nbsp;|&nbsp;
+                                <a href="desconectar.aspx" class="LinkTextoF16">
+                                    Desconectar
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </dx:PanelContent>
+            </PanelCollection>
+        </dx:ASPxPanel>
+        <!-- *** Área de conteúdo *** -->
+        <div align="center">
+            <asp:ContentPlaceHolder ID="cplCentral" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- *** Data source do menu de acesso *** -->
+        <asp:XmlDataSource ID="XmlDataSourceHeader" runat="server" DataFile="~/App_Data/MainMenu.xml" XPath="/items/*" />
+    </form>
+</body>
+</html>

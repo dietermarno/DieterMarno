@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8436D058-3ACF-4554-9EFD-26406EBC692A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Decision</RootNamespace>
+    <AssemblyName>Decision</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <FilesToIncludeForPublish>AllFilesInTheProject</FilesToIncludeForPublish>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devart.Data, Version=5.0.1654.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="Devart.Data.MySql, Version=8.8.862.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Devart\dotConnect\MySQL\Devart.Data.MySql.dll</HintPath>
+    </Reference>
+    <Reference Include="Devart.Data.MySql.Web, Version=8.8.862.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxGauges.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxHtmlEditor.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxPivotGrid.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxScheduler.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxSpellChecker.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxSpreadsheet.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxThemes.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxTreeList.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.Bootstrap.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.2.Web, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.2.Presets, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.Resources.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.2.Web, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\abertura.aspx" />
+    <Content Include="Admin\administradores.aspx" />
+    <Content Include="Admin\default.aspx" />
+    <Content Include="Admin\empresas.aspx" />
+    <Content Include="altera_senha.aspx" />
+    <Content Include="altera_senha_ok.aspx" />
+    <Content Include="App_Data\Admin.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Data.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.DataAccess.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Map.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Office.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Printing.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Snap.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Snap.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Utils.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Utils.v16.2.UI.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.Resources.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Web.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.Xpo.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraBars.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraCharts.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraEditors.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraGrid.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraLayout.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraReports.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="pt-BR\DevExpress.XtraWizard.v16.2.resources.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="clientes.aspx" />
+    <Content Include="conectar.aspx" />
+    <Content Include="config_smtp.aspx" />
+    <Content Include="DecisionServices.asmx" />
+    <Content Include="desconectar.aspx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\AppointmentDragToolTip.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\AppointmentForm.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\AppointmentFormEx.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\AppointmentToolTip.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\GotoDateForm.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\HorizontalAppointmentTemplate.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\HorizontalSameDayAppointmentTemplate.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\InplaceEditor.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\RecurrentAppointmentDeleteForm.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\RecurrentAppointmentEditForm.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\ReminderForm.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\SelectionToolTip.ascx" />
+    <Content Include="DevExpress\ASPxSchedulerForms\VerticalAppointmentTemplate.ascx" />
+    <Content Include="Images\csv.png" />
+    <Content Include="Images\pdf.png" />
+    <Content Include="Images\rtf.png" />
+    <Content Include="Images\xls.png" />
+    <Content Include="Images\xlsx.png" />
+    <Content Include="oportunidades.aspx" />
+    <Content Include="pais.aspx" />
+    <Content Include="recuperar_senha.aspx" />
+    <Content Include="recuperar_senha_email.aspx" />
+    <Content Include="recuperar_senha_ok.aspx" />
+    <Content Include="registrar.aspx" />
+    <Content Include="registrar_ok.aspx" />
+    <Content Include="agenda.aspx" />
+    <Content Include="App_Data\MainMenu.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Content\Site.css" />
+    <Content Include="abertura.aspx" />
+    <Content Include="default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\answer.png" />
+    <Content Include="Images\bullet.png" />
+    <Content Include="Images\decision.png" />
+    <Content Include="Images\home.png" />
+    <Content Include="Images\hourglass.png" />
+    <Content Include="Images\left.png" />
+    <Content Include="Images\login.png" />
+    <Content Include="Images\password.png" />
+    <Content Include="Images\question.png" />
+    <Content Include="Images\register.png" />
+    <Content Include="Images\tour_100.jpg" />
+    <Content Include="Images\tour_60.jpg" />
+    <Content Include="oportunidades_acompanhamento.aspx" />
+    <Content Include="oportunidades_boasvindas_email.aspx" />
+    <Content Include="oportunidades_edicao.aspx" />
+    <Content Include="oportunidades_exclusao.aspx" />
+    <Content Include="oportunidades_orcamentonotificacao_email.aspx" />
+    <Content Include="oportunidades_orcamento_email.aspx" />
+    <Content Include="Scripts\jquery-ui.min.js" />
+    <Content Include="Scripts\notify-metro.js" />
+    <Content Include="Scripts\notify.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Root.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\client_library.js" />
+    <Content Include="Scripts\jquery-1.12.3.min.js" />
+    <Content Include="permissoes.aspx" />
+    <Content Include="smtp_teste_email.aspx" />
+    <Content Include="usuarios.aspx" />
+    <Content Include="usuarios_edicao.aspx" />
+    <Content Include="usuarios_exclusao.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="exibe_logo_posto.ashx" />
+    <Content Include="Admin\Admin.Master" />
+    <None Include="Properties\PublishProfiles\Decision WEB.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Library\Decision.DBConn.cs">
+      <Link>Library\Decision.DBConn.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Decision.ListLoader.cs">
+      <Link>Library\Decision.ListLoader.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Decision.Login.cs">
+      <Link>Library\Decision.Login.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Decision.Security.cs">
+      <Link>Library\Decision.Security.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Decision.SendMail.cs">
+      <Link>Library\Decision.SendMail.cs</Link>
+    </Compile>
+    <Compile Include="Admin\abertura.aspx.cs">
+      <DependentUpon>abertura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\abertura.aspx.designer.cs">
+      <DependentUpon>abertura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\administradores.aspx.cs">
+      <DependentUpon>administradores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\administradores.aspx.designer.cs">
+      <DependentUpon>administradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\empresas.aspx.cs">
+      <DependentUpon>empresas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\empresas.aspx.designer.cs">
+      <DependentUpon>empresas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="altera_senha.aspx.cs">
+      <DependentUpon>altera_senha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="altera_senha.aspx.designer.cs">
+      <DependentUpon>altera_senha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="altera_senha_ok.aspx.cs">
+      <DependentUpon>altera_senha_ok.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="altera_senha_ok.aspx.designer.cs">
+      <DependentUpon>altera_senha_ok.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clientes.aspx.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clientes.aspx.designer.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="conectar.aspx.cs">
+      <DependentUpon>conectar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="conectar.aspx.designer.cs">
+      <DependentUpon>conectar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="config_smtp.aspx.cs">
+      <DependentUpon>config_smtp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="config_smtp.aspx.designer.cs">
+      <DependentUpon>config_smtp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DecisionServices.asmx.cs">
+      <DependentUpon>DecisionServices.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="desconectar.aspx.cs">
+      <DependentUpon>desconectar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="desconectar.aspx.designer.cs">
+      <DependentUpon>desconectar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentDragToolTip.ascx.cs">
+      <DependentUpon>AppointmentDragToolTip.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentDragToolTip.ascx.designer.cs">
+      <DependentUpon>AppointmentDragToolTip.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentForm.ascx.cs">
+      <DependentUpon>AppointmentForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentForm.ascx.designer.cs">
+      <DependentUpon>AppointmentForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentFormEx.ascx.cs">
+      <DependentUpon>AppointmentFormEx.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentFormEx.ascx.designer.cs">
+      <DependentUpon>AppointmentFormEx.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentToolTip.ascx.cs">
+      <DependentUpon>AppointmentToolTip.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\AppointmentToolTip.ascx.designer.cs">
+      <DependentUpon>AppointmentToolTip.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\GotoDateForm.ascx.cs">
+      <DependentUpon>GotoDateForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\GotoDateForm.ascx.designer.cs">
+      <DependentUpon>GotoDateForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\HorizontalAppointmentTemplate.ascx.cs">
+      <DependentUpon>HorizontalAppointmentTemplate.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\HorizontalAppointmentTemplate.ascx.designer.cs">
+      <DependentUpon>HorizontalAppointmentTemplate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\HorizontalSameDayAppointmentTemplate.ascx.cs">
+      <DependentUpon>HorizontalSameDayAppointmentTemplate.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\HorizontalSameDayAppointmentTemplate.ascx.designer.cs">
+      <DependentUpon>HorizontalSameDayAppointmentTemplate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\InplaceEditor.ascx.cs">
+      <DependentUpon>InplaceEditor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\InplaceEditor.ascx.designer.cs">
+      <DependentUpon>InplaceEditor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\RecurrentAppointmentDeleteForm.ascx.cs">
+      <DependentUpon>RecurrentAppointmentDeleteForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\RecurrentAppointmentDeleteForm.ascx.designer.cs">
+      <DependentUpon>RecurrentAppointmentDeleteForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\RecurrentAppointmentEditForm.ascx.cs">
+      <DependentUpon>RecurrentAppointmentEditForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\RecurrentAppointmentEditForm.ascx.designer.cs">
+      <DependentUpon>RecurrentAppointmentEditForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\ReminderForm.ascx.cs">
+      <DependentUpon>ReminderForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\ReminderForm.ascx.designer.cs">
+      <DependentUpon>ReminderForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\SelectionToolTip.ascx.cs">
+      <DependentUpon>SelectionToolTip.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\SelectionToolTip.ascx.designer.cs">
+      <DependentUpon>SelectionToolTip.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\VerticalAppointmentTemplate.ascx.cs">
+      <DependentUpon>VerticalAppointmentTemplate.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DevExpress\ASPxSchedulerForms\VerticalAppointmentTemplate.ascx.designer.cs">
+      <DependentUpon>VerticalAppointmentTemplate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades.aspx.cs">
+      <DependentUpon>oportunidades.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades.aspx.designer.cs">
+      <DependentUpon>oportunidades.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pais.aspx.cs">
+      <DependentUpon>pais.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pais.aspx.designer.cs">
+      <DependentUpon>pais.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recuperar_senha.aspx.cs">
+      <DependentUpon>recuperar_senha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recuperar_senha.aspx.designer.cs">
+      <DependentUpon>recuperar_senha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recuperar_senha_email.aspx.cs">
+      <DependentUpon>recuperar_senha_email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recuperar_senha_email.aspx.designer.cs">
+      <DependentUpon>recuperar_senha_email.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recuperar_senha_ok.aspx.cs">
+      <DependentUpon>recuperar_senha_ok.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recuperar_senha_ok.aspx.designer.cs">
+      <DependentUpon>recuperar_senha_ok.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registrar.aspx.cs">
+      <DependentUpon>registrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registrar.aspx.designer.cs">
+      <DependentUpon>registrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registrar_ok.aspx.cs">
+      <DependentUpon>registrar_ok.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registrar_ok.aspx.designer.cs">
+      <DependentUpon>registrar_ok.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="abertura.aspx.cs">
+      <DependentUpon>abertura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="abertura.aspx.designer.cs">
+      <DependentUpon>abertura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="agenda.aspx.cs">
+      <DependentUpon>agenda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="agenda.aspx.designer.cs">
+      <DependentUpon>agenda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exibe_logo_posto.ashx.cs">
+      <DependentUpon>exibe_logo_posto.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades_acompanhamento.aspx.cs">
+      <DependentUpon>oportunidades_acompanhamento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades_acompanhamento.aspx.designer.cs">
+      <DependentUpon>oportunidades_acompanhamento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades_boasvindas_email.aspx.cs">
+      <DependentUpon>oportunidades_boasvindas_email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades_boasvindas_email.aspx.designer.cs">
+      <DependentUpon>oportunidades_boasvindas_email.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades_edicao.aspx.cs">
+      <DependentUpon>oportunidades_edicao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades_edicao.aspx.designer.cs">
+      <DependentUpon>oportunidades_edicao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades_exclusao.aspx.cs">
+      <DependentUpon>oportunidades_exclusao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades_exclusao.aspx.designer.cs">
+      <DependentUpon>oportunidades_exclusao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades_orcamentonotificacao_email.aspx.cs">
+      <DependentUpon>oportunidades_orcamentonotificacao_email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades_orcamentonotificacao_email.aspx.designer.cs">
+      <DependentUpon>oportunidades_orcamentonotificacao_email.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="oportunidades_orcamento_email.aspx.cs">
+      <DependentUpon>oportunidades_orcamento_email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="oportunidades_orcamento_email.aspx.designer.cs">
+      <DependentUpon>oportunidades_orcamento_email.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\oportunidade_acompanhamento.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\oportunidade_acompanhamento.Designer.cs">
+      <DependentUpon>oportunidade_acompanhamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\oportunidade_grafico.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\oportunidade_grafico.Designer.cs">
+      <DependentUpon>oportunidade_grafico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Root.master.cs">
+      <DependentUpon>Root.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Root.master.designer.cs">
+      <DependentUpon>Root.master</DependentUpon>
+    </Compile>
+    <Compile Include="permissoes.aspx.cs">
+      <DependentUpon>permissoes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="permissoes.aspx.designer.cs">
+      <DependentUpon>permissoes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="smtp_teste_email.aspx.cs">
+      <DependentUpon>smtp_teste_email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="smtp_teste_email.aspx.designer.cs">
+      <DependentUpon>smtp_teste_email.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="usuarios.aspx.cs">
+      <DependentUpon>usuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usuarios.aspx.designer.cs">
+      <DependentUpon>usuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="usuarios_edicao.aspx.cs">
+      <DependentUpon>usuarios_edicao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usuarios_edicao.aspx.designer.cs">
+      <DependentUpon>usuarios_edicao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="usuarios_exclusao.aspx.cs">
+      <DependentUpon>usuarios_exclusao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usuarios_exclusao.aspx.designer.cs">
+      <DependentUpon>usuarios_exclusao.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Reports\oportunidade_acompanhamento.resx">
+      <DependentUpon>oportunidade_acompanhamento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\oportunidade_grafico.resx">
+      <DependentUpon>oportunidade_grafico.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DecisionLibrary\DecicionLibrary.csproj">
+      <Project>{0e19aec2-e1de-48ff-bb89-7e074e3d2897}</Project>
+      <Name>DecicionLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1478</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1478/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

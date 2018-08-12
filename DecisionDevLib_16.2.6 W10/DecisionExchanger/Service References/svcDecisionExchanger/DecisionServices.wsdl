@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ImportaPais">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaPaisResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaPaisResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="RetornoWebService">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ErrorList" type="tns:ArrayOfString" />
+          <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Error" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Selected" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Inserted" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Updated" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Errors" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ImportaCidade">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaCidadeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaCidadeResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaBanco">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaBancoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaBancoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaProfissao">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaProfissaoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaProfissaoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaPromotor">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaPromotorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaPromotorResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaPosto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaPostoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaPostoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaSituacao">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaSituacaoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaSituacaoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaClassifica">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaClassificaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaClassificaResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaClientes">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ImportaClientesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ImportaClientesResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaPais">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaPaisResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaPaisResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaCidade">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaCidadeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaCidadeResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaBanco">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaBancoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaBancoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaProfissao">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaProfissaoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaProfissaoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaPromotor">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaPromotorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaPromotorResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaPosto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaPostoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaPostoResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaClassifica">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaClassificaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaClassificaResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaClientes">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Senha" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExportaClientesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExportaClientesResult" type="tns:RetornoWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ImportaPaisSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaPais" />
+  </wsdl:message>
+  <wsdl:message name="ImportaPaisSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaPaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaCidadeSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaCidade" />
+  </wsdl:message>
+  <wsdl:message name="ImportaCidadeSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaCidadeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaBancoSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaBanco" />
+  </wsdl:message>
+  <wsdl:message name="ImportaBancoSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaBancoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaProfissaoSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaProfissao" />
+  </wsdl:message>
+  <wsdl:message name="ImportaProfissaoSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaProfissaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaPromotorSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaPromotor" />
+  </wsdl:message>
+  <wsdl:message name="ImportaPromotorSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaPromotorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaPostoSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaPosto" />
+  </wsdl:message>
+  <wsdl:message name="ImportaPostoSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaPostoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaSituacaoSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaSituacao" />
+  </wsdl:message>
+  <wsdl:message name="ImportaSituacaoSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaSituacaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaClassificaSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaClassifica" />
+  </wsdl:message>
+  <wsdl:message name="ImportaClassificaSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaClassificaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ImportaClientesSoapIn">
+    <wsdl:part name="parameters" element="tns:ImportaClientes" />
+  </wsdl:message>
+  <wsdl:message name="ImportaClientesSoapOut">
+    <wsdl:part name="parameters" element="tns:ImportaClientesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaPaisSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaPais" />
+  </wsdl:message>
+  <wsdl:message name="ExportaPaisSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaPaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaCidadeSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaCidade" />
+  </wsdl:message>
+  <wsdl:message name="ExportaCidadeSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaCidadeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaBancoSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaBanco" />
+  </wsdl:message>
+  <wsdl:message name="ExportaBancoSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaBancoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaProfissaoSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaProfissao" />
+  </wsdl:message>
+  <wsdl:message name="ExportaProfissaoSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaProfissaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaPromotorSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaPromotor" />
+  </wsdl:message>
+  <wsdl:message name="ExportaPromotorSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaPromotorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaPostoSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaPosto" />
+  </wsdl:message>
+  <wsdl:message name="ExportaPostoSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaPostoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaClassificaSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaClassifica" />
+  </wsdl:message>
+  <wsdl:message name="ExportaClassificaSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaClassificaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExportaClientesSoapIn">
+    <wsdl:part name="parameters" element="tns:ExportaClientes" />
+  </wsdl:message>
+  <wsdl:message name="ExportaClientesSoapOut">
+    <wsdl:part name="parameters" element="tns:ExportaClientesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DecisionServicesSoap">
+    <wsdl:operation name="ImportaPais">
+      <wsdl:input message="tns:ImportaPaisSoapIn" />
+      <wsdl:output message="tns:ImportaPaisSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaCidade">
+      <wsdl:input message="tns:ImportaCidadeSoapIn" />
+      <wsdl:output message="tns:ImportaCidadeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaBanco">
+      <wsdl:input message="tns:ImportaBancoSoapIn" />
+      <wsdl:output message="tns:ImportaBancoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaProfissao">
+      <wsdl:input message="tns:ImportaProfissaoSoapIn" />
+      <wsdl:output message="tns:ImportaProfissaoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaPromotor">
+      <wsdl:input message="tns:ImportaPromotorSoapIn" />
+      <wsdl:output message="tns:ImportaPromotorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaPosto">
+      <wsdl:input message="tns:ImportaPostoSoapIn" />
+      <wsdl:output message="tns:ImportaPostoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaSituacao">
+      <wsdl:input message="tns:ImportaSituacaoSoapIn" />
+      <wsdl:output message="tns:ImportaSituacaoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaClassifica">
+      <wsdl:input message="tns:ImportaClassificaSoapIn" />
+      <wsdl:output message="tns:ImportaClassificaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportaClientes">
+      <wsdl:input message="tns:ImportaClientesSoapIn" />
+      <wsdl:output message="tns:ImportaClientesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPais">
+      <wsdl:input message="tns:ExportaPaisSoapIn" />
+      <wsdl:output message="tns:ExportaPaisSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaCidade">
+      <wsdl:input message="tns:ExportaCidadeSoapIn" />
+      <wsdl:output message="tns:ExportaCidadeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaBanco">
+      <wsdl:input message="tns:ExportaBancoSoapIn" />
+      <wsdl:output message="tns:ExportaBancoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaProfissao">
+      <wsdl:input message="tns:ExportaProfissaoSoapIn" />
+      <wsdl:output message="tns:ExportaProfissaoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPromotor">
+      <wsdl:input message="tns:ExportaPromotorSoapIn" />
+      <wsdl:output message="tns:ExportaPromotorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPosto">
+      <wsdl:input message="tns:ExportaPostoSoapIn" />
+      <wsdl:output message="tns:ExportaPostoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaClassifica">
+      <wsdl:input message="tns:ExportaClassificaSoapIn" />
+      <wsdl:output message="tns:ExportaClassificaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExportaClientes">
+      <wsdl:input message="tns:ExportaClientesSoapIn" />
+      <wsdl:output message="tns:ExportaClientesSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DecisionServicesSoap" type="tns:DecisionServicesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ImportaPais">
+      <soap:operation soapAction="http://tempuri.org/ImportaPais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaCidade">
+      <soap:operation soapAction="http://tempuri.org/ImportaCidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaBanco">
+      <soap:operation soapAction="http://tempuri.org/ImportaBanco" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaProfissao">
+      <soap:operation soapAction="http://tempuri.org/ImportaProfissao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaPromotor">
+      <soap:operation soapAction="http://tempuri.org/ImportaPromotor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaPosto">
+      <soap:operation soapAction="http://tempuri.org/ImportaPosto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaSituacao">
+      <soap:operation soapAction="http://tempuri.org/ImportaSituacao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaClassifica">
+      <soap:operation soapAction="http://tempuri.org/ImportaClassifica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaClientes">
+      <soap:operation soapAction="http://tempuri.org/ImportaClientes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPais">
+      <soap:operation soapAction="http://tempuri.org/ExportaPais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaCidade">
+      <soap:operation soapAction="http://tempuri.org/ExportaCidade" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaBanco">
+      <soap:operation soapAction="http://tempuri.org/ExportaBanco" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaProfissao">
+      <soap:operation soapAction="http://tempuri.org/ExportaProfissao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPromotor">
+      <soap:operation soapAction="http://tempuri.org/ExportaPromotor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPosto">
+      <soap:operation soapAction="http://tempuri.org/ExportaPosto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaClassifica">
+      <soap:operation soapAction="http://tempuri.org/ExportaClassifica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaClientes">
+      <soap:operation soapAction="http://tempuri.org/ExportaClientes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DecisionServicesSoap12" type="tns:DecisionServicesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ImportaPais">
+      <soap12:operation soapAction="http://tempuri.org/ImportaPais" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaCidade">
+      <soap12:operation soapAction="http://tempuri.org/ImportaCidade" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaBanco">
+      <soap12:operation soapAction="http://tempuri.org/ImportaBanco" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaProfissao">
+      <soap12:operation soapAction="http://tempuri.org/ImportaProfissao" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaPromotor">
+      <soap12:operation soapAction="http://tempuri.org/ImportaPromotor" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaPosto">
+      <soap12:operation soapAction="http://tempuri.org/ImportaPosto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaSituacao">
+      <soap12:operation soapAction="http://tempuri.org/ImportaSituacao" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaClassifica">
+      <soap12:operation soapAction="http://tempuri.org/ImportaClassifica" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportaClientes">
+      <soap12:operation soapAction="http://tempuri.org/ImportaClientes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPais">
+      <soap12:operation soapAction="http://tempuri.org/ExportaPais" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaCidade">
+      <soap12:operation soapAction="http://tempuri.org/ExportaCidade" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaBanco">
+      <soap12:operation soapAction="http://tempuri.org/ExportaBanco" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaProfissao">
+      <soap12:operation soapAction="http://tempuri.org/ExportaProfissao" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPromotor">
+      <soap12:operation soapAction="http://tempuri.org/ExportaPromotor" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaPosto">
+      <soap12:operation soapAction="http://tempuri.org/ExportaPosto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaClassifica">
+      <soap12:operation soapAction="http://tempuri.org/ExportaClassifica" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExportaClientes">
+      <soap12:operation soapAction="http://tempuri.org/ExportaClientes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DecisionServices">
+    <wsdl:port name="DecisionServicesSoap" binding="tns:DecisionServicesSoap">
+      <soap:address location="http://localhost:1478/DecisionServices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="DecisionServicesSoap12" binding="tns:DecisionServicesSoap12">
+      <soap12:address location="http://localhost:1478/DecisionServices.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

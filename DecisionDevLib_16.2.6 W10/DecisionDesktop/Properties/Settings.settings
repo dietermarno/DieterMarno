@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DecisionDesktop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connection_Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WJZ7ntTK9GFtb3E9h5mHqw==</Value>
+    </Setting>
+    <Setting Name="Connection_User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VwbAwhip2g0=</Value>
+    </Setting>
+    <Setting Name="Connection_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1cVDXORGXaIyezdKxBiUuA==</Value>
+    </Setting>
+    <Setting Name="Connection_Port" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GJqzMNN9IBg=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

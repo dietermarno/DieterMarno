@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Decision.Admin.Admin" %>
+
+<%@ Register Assembly="DevExpress.Web.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Administração do Sistema</title>
+    <link href="../Content/Site.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-1.12.3.min.js"></script>
+    <script src="../Scripts/jquery-ui.min.js"></script>
+</head>
+<body>
+    <form id="frmLogin" runat="server">
+
+        <dx:ASPxPanel ID="pnlEsquerdo" runat="server" Width="280px" FixedPosition="WindowLeft" Collapsible="true" CollapseAtWindowInnerWidth="900">
+            <PanelCollection>
+                <dx:PanelContent runat="server">
+                    <!-- *** Menu Principal *** -->
+                    <dx:ASPxNavBar ID="navMenu" Width="280px" runat="server" DataSourceID="XmlDataSourceHeader" AutoCollapse="true" SaveStateToCookiesID="Decision.MenuAdmin" SaveStateToCookies="True" CssClass="TextoCinza16">
+                        <Paddings PaddingLeft="5px" />
+                        <Border BorderWidth="0px" />
+                        <BorderTop BorderWidth="1px" />
+                        <ItemStyle Paddings-PaddingLeft="10px" Paddings-PaddingRight="10px" >
+                        <Paddings PaddingLeft="10px" PaddingRight="10px"></Paddings>
+                        </ItemStyle>
+                    </dx:ASPxNavBar>
+                    <!-- *** Menu Configurações *** -->
+                    
+                </dx:PanelContent>
+            </PanelCollection>
+        </dx:ASPxPanel>
+        <dx:ASPxPanel ID="pnlTopo" ClientInstanceName="pnlTopo" runat="server" Width="200px" Height="50px" FixedPosition="WindowTop">
+            <PanelCollection>
+                <dx:PanelContent runat="server">
+                    <div id="divConteudo" style="min-width: 700px; min-height: 50px;" >
+                        <div id="divLogo" runat="server" style="display:inline-block; vertical-align:top; padding-top: 0px;">
+                            <img src="/Images/decision.png" />
+                        </div>
+                        <div id="divOperador" runat="server" style="display:inline-block; vertical-align:top; padding-top: 3px; padding-left: 20px;">
+                            <span class="TextoCinza20">ADMNISTRAÇÃO DE ACESSO AO SISTEMA</span>
+                        </div>
+                        <div id="divOpcoes" runat="server" style="display:inline-block; padding-top: 0px; float:right;">
+                            <div id="divLoggedOff" runat="server" align="right">
+                                <a href="conectar.aspx" runat="server" class="LinkTextoF16">
+                                    Conectar
+                                </a>
+                            </div>
+                            <div id="divLoggedIn" runat="server" align="right" style="vertical-align:top;">
+                                <span class="TextoCinza11"><%=UserLoginInfo%></span>
+                                <br />
+                                <a href="desconectar.aspx" class="LinkTextoF16">
+                                    Desconectar
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </dx:PanelContent>
+            </PanelCollection>
+        </dx:ASPxPanel>
+        <!-- *** Área de conteúdo *** -->
+        <asp:ContentPlaceHolder ID="cphConteudo" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <!-- *** Data source do menu de acesso *** -->
+        <asp:XmlDataSource ID="XmlDataSourceHeader" runat="server" DataFile="~/App_Data/Admin.xml" XPath="/items/*" />
+    </form>
+</body>
+</html>
+

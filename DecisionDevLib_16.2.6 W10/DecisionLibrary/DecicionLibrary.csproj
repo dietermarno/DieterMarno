@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E19AEC2-E1DE-48FF-BB89-7E074E3D2897}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataLibrary</RootNamespace>
+    <AssemblyName>DecisionDatabase</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devart.Data, Version=5.0.1654.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="Devart.Data.MySql, Version=8.8.862.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v16.2.Core, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Library\Common.BitmapUtil.cs">
+      <Link>Library\Common.BitmapUtil.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.ComboBinder.cs">
+      <Link>Library\Common.ComboBinder.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Crypto.cs">
+      <Link>Library\Common.Crypto.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.DBMagager.cs">
+      <Link>Library\Common.DBMagager.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.DBUtilities.cs">
+      <Link>Library\Common.DBUtilities.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Extensions.cs">
+      <Link>Library\Common.Extensions.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.JSON.Oportunidade.cs">
+      <Link>Library\Common.JSON.Oportunidade.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.OptionLists.cs">
+      <Link>Library\Common.OptionLists.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Agenda.cs">
+      <Link>Library\Common.Table.Agenda.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Agenda_Etiqueta.cs">
+      <Link>Library\Common.Table.Agenda_Etiqueta.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Bancos.cs">
+      <Link>Library\Common.Table.Bancos.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Cidade.cs">
+      <Link>Library\Common.Table.Cidade.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Classifica.cs">
+      <Link>Library\Common.Table.Classifica.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Clientes.cs">
+      <Link>Library\Common.Table.Clientes.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Config.cs">
+      <Link>Library\Common.Table.Config.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Oportunidade.cs">
+      <Link>Library\Common.Table.Oportunidade.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Oportunidade_Orcamentos.cs">
+      <Link>Library\Common.Table.Oportunidade_Orcamentos.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Pais.cs">
+      <Link>Library\Common.Table.Pais.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Posto.cs">
+      <Link>Library\Common.Table.Posto.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Profissao.cs">
+      <Link>Library\Common.Table.Profissao.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Promotor.cs">
+      <Link>Library\Common.Table.Promotor.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Table.Situacao.cs">
+      <Link>Library\Common.Table.Situacao.cs</Link>
+    </Compile>
+    <Compile Include="..\Library\Common.Utilities.cs">
+      <Link>Library\Common.Utilities.cs</Link>
+    </Compile>
+    <Compile Include="Library\Common.Table.Requisicao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

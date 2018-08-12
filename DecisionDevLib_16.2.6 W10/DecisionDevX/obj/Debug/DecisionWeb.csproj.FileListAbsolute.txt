@@ -1,0 +1,696 @@
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\Decision.dll.config
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\Decision.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\Decision.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\DecisionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_acompanhamento.resources
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_grafico.resources
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\DecisionWeb.csproj.GenerateResource.Cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.dll.licenses
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Data.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Snap.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.Resources.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraWizard.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Data.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Snap.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Utils.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.Resources.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\bin\pt-BR\DevExpress.XtraWizard.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\Decision.dll.config
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\Decision.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\Decision.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\bin\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\DecisionWeb.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_acompanhamento.resources
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_grafico.resources
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\DecisionWeb.csproj.GenerateResource.Cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.dll.licenses
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5\DecisionDevX\obj\Debug\Decision.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Data.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.Resources.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraWizard.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\Decision.dll.config
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\Decision.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\Decision.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\DecisionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_acompanhamento.resources
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_grafico.resources
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\DecisionWeb.csproj.GenerateResource.Cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.dll.licenses
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Data.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.Resources.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraWizard.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\Decision.dll.config
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\Decision.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\Decision.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\bin\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\DecisionWeb.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_acompanhamento.resources
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_grafico.resources
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\DecisionWeb.csproj.GenerateResource.Cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.dll.licenses
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionDevX\obj\Debug\Decision.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Data.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.Resources.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraWizard.v16.2.resources.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\Decision.dll.config
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\Decision.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\Decision.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\DecisionWeb.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_acompanhamento.resources
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_grafico.resources
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\DecisionWeb.csproj.GenerateResource.Cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.dll.licenses
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Charts.Designer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Web.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Dashboard.v16.2.Win.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Data.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.AuditTrail.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Chart.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.CloneObject.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Demos.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.FileAttachment.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Kpi.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Objects.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotChart.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.PivotGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Reports.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Scheduler.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ScriptRecorder.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Security.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.StateMachine.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Validation.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.ViewVariantsModule.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.ExpressApp.Workflow.Win.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Map.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Snap.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.Resources.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Web.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Gauges.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPdfViewer.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraReports.v16.2.Web.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraScheduler.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpellChecker.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\pt-BR\DevExpress.XtraWizard.v16.2.resources.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\Decision.dll.config
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\Decision.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\Decision.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\bin\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\DecisionWeb.csprojResolveAssemblyReference.cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_acompanhamento.resources
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.Reports.oportunidade_grafico.resources
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\DecisionWeb.csproj.GenerateResource.Cache
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.dll.licenses
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionDevX\obj\Debug\Decision.pdb

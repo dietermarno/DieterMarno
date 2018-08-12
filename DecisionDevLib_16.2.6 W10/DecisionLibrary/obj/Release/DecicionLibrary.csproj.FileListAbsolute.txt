@@ -1,0 +1,9 @@
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\bin\Release\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\bin\Release\DecisionDatabase.pdb
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Release\DecisionDatabase.dll
+C:\Users\Heaser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.5 W10\DecisionLibrary\obj\Release\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\bin\Release\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\bin\Release\DecisionDatabase.pdb
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Release\DecicionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Release\DecisionDatabase.dll
+C:\Users\José Haeser\Documents\Visual Studio 2013\Projects\DecisionDevLib_16.2.6 W10\DecisionLibrary\obj\Release\DecisionDatabase.pdb

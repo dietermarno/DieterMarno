@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Home" NavigateUrl="~/abertura.aspx" />
+  <item Text="Cadastros">
+    <item Text="Cadastro de Clientes" NavigateUrl="~/clientes.aspx" />
+  </item>
+  <item Text="Atendimento">
+    <item Text="Agenda de Compromissos" NavigateUrl="~/agenda.aspx" />
+    <item Text="Gerenciamento de Oportunidades" NavigateUrl="~/oportunidades.aspx" />
+  </item>
+  <item Text="Segurança">
+    <item Text="Gerenciamento de Usuários" NavigateUrl="~/usuarios.aspx" />
+    <item Text="Grupos de Permissões" NavigateUrl="~/permissoes.aspx" />
+  </item>
+  <item Text="Configurações">
+    <item Text="Envio de E-mail" NavigateUrl="~/config_smtp.aspx" />
+  </item>
+</items>

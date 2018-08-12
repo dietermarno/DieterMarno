@@ -1,0 +1,357 @@
+/* Corpo HTML */
+html, body 
+{
+    font-family: Calibri, Tahoma, Verdana, Arial, 'Times New Roman'!important;
+    font-size: 16px!important;
+    margin: 0;
+    padding: 0;
+    min-height: 240px;
+    min-width: 640px;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+}
+/* Usado nos títulos dos campos e descrições Tamanho 16 */
+.TituloCampo 
+{
+    border-top: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+    border-bottom: 1px solid #cccccc;
+    font-size: 16px;
+}
+/* Formatação da aparência dos campos, quando borda está na tabela, Tamanho 16 */
+.CamposSemBordaInferior
+{
+    border-top: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+    border-bottom: 0px solid;
+    font-size: 16px;
+    font-weight: 500; 
+}
+/* Formatação da aparência dos campos Tamanho 16 */
+.CampoSemBordas 
+{
+    border-top: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+    border-bottom: 1px solid #cccccc;
+    font-size: 16px;
+    font-weight: 500; 
+}
+/* Formatação da aparência dos campos Tamanho 16: mouseover */
+.CampoSemBordas:hover
+{
+    border-top: 0px solid;
+    border-left: 0px solid;
+    border-right: 0px solid;
+    border-bottom: 1px solid #0072c6;
+    font-size: 16px;
+    font-weight: 500; 
+}
+/* Formatação da aparência dos campos: foco */
+.CampoSemBordasFocus
+{
+    border-bottom: 1px solid #0072c6;
+    font-weight: 500; 
+}
+/* Links retangulares, formato botão, fonte 11 */
+.BotaoLinkFont11
+{
+    text-decoration: none;
+    font-size: 11px;
+    color: #0072c6;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+/* Links retangulares, formato botão, fonte 11: mouseover */
+.BotaoLinkFont11:hover
+{
+    text-decoration: none;
+    font-size: 11px;
+    color: #ffffff;
+    background-color: #0072c6;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+/* Links retangulares, formato botão, fonte 16  */
+.BotaoLinkF16
+{
+    text-decoration: none;
+    font-size: 16px;
+    color: #0072c6;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+/* Links retangulares, formato botão, fonte 16: mouseover */
+.BotaoLinkF16:hover
+{
+    text-decoration: none;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #0072c6;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+/* Links retangulares, formato botão, fonte 14, tamanho 60 */
+.BotaoLinkW60F14
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    color: #0072c6;
+    padding: 2px 7px;
+    transition:all 0.3s;
+    width: 60px;
+}
+/* Links retangulares, formato botão, fonte 14, tamanho 60: mouseover */
+.BotaoLinkW60F14:hover
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    color: #ffffff;
+    background-color: #0072c6;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 2px 7px;
+    width: 60px;
+}
+/* Links retangulares, formato botão, fonte 14, tamanho 60 (desativado) */
+.BotaoLinkW60F14_OFF
+{
+    border-top: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    border-bottom: 1px solid #808080;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    color: #808080;
+    padding: 2px 7px;
+    transition:all 0.3s;
+    width: 60px;
+}
+/* Links retangulares, formato botão, fonte 14, tamanho 100 */
+.BotaoLinkW100F14
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    color: #0072c6;
+    padding: 2px 7px;
+    transition:all 0.3s;
+    width: 100px;
+}
+/* Links retangulares, formato botão, fonte 14, tamanho 100: mouseover */
+.BotaoLinkW100F14:hover
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    color: #ffffff;
+    background-color: #0072c6;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 2px 7px;
+    width: 100px;
+}
+.BotaoLinkW60F16
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    color: #0072c6;
+    padding: 2px 7px;
+    transition:all 0.3s;
+    width: 60px;
+}
+/* Links retangulares, formato botão, fonte 16, tamanho 60: mouseover */
+.BotaoLinkW60F16:hover
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    color: #ffffff;
+    background-color: #0072c6;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 2px 7px;
+    width: 60px;
+}
+/* Links retangulares, formato botão, fonte 16, tamanho 100 */
+.BotaoLinkW100F16
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    color: #0072c6;
+    padding: 2px 7px;
+    transition:all 0.3s;
+    width: 100px;
+}
+/* Links retangulares, formato botão, fonte 16, tamanho 100: mouseover */
+.BotaoLinkW100F16:hover
+{
+    border-top: 1px solid #0072c6;
+    border-left: 1px solid #0072c6;
+    border-right: 1px solid #0072c6;
+    border-bottom: 1px solid #0072c6;
+    color: #ffffff;
+    background-color: #0072c6;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 2px 7px;
+    width: 100px;
+}
+/* Links texto Tamanho 11 */
+.LinkTextoF11
+{
+    text-decoration: none;
+    font-size: 11px;
+    color: #0072c6;
+}
+/* Links texto Tamanho 11: mouseouver */
+.LinkTextoF11:hover
+{
+    text-decoration: underline;
+    font-size: 11px;
+    color: #0072c6;
+}
+/* Links texto Tamanho 14 */
+.LinkTextoF14
+{
+    text-decoration: none;
+    font-size: 14px;
+    color: #0072c6;
+}
+/* Links texto Tamanho 14: mouseouver */
+.LinkTextoF14:hover
+{
+    text-decoration: underline;
+    font-size: 14px;
+    color: #0072c6;
+}
+/* Links texto Tamanho 16 */
+.LinkTextoF16
+{
+    text-decoration: none;
+    font-size: 16px;
+    color: #0072c6;
+}
+/* Links texto Tamanho 16: mouseouver */
+.LinkTextoF16:hover
+{
+    text-decoration: underline;
+    font-size: 16px;
+    color: #0072c6;
+}
+/* Links texto Tamanho 14 */
+.TextoAgendaF14
+{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #666666;
+}
+.LinkAgendaF14
+{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: #666666;
+}
+/* Links texto Tamanho 16: mouseouver */
+.LinkAgendaF14:hover
+{
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: 400;
+    color: #666666;
+}
+/* Texto Cinza Tamanho 11 */
+.TextoCinza11
+{
+    font-size: 11px;
+    color: #8e8c8c;
+}
+/* Texto Cinza Tamanho 14 */
+.TextoCinza14
+{
+    font-size: 14px;
+    color: #808080;
+}
+/* Texto Cinza Tamanho 16 */
+.TextoCinza16
+{
+    font-size: 16px;
+    color: #808080;
+}
+/* Texto Cinza Tamanho 20 */
+.TextoCinza20
+{
+    font-size: 20px;
+    color: #808080;
+}
+/* Texto Cinza Tamanho 20 Negrito */
+.TextoCinza20_Negrito
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: #808080;
+}
+/* Texto Tamanho 11 */
+.Texto11
+{
+    font-size: 11px;
+}
+/* Texto Tamanho 14 */
+.Texto14
+{
+    font-size: 14px;
+}
+/* Texto Tamanho 16 */
+.Texto16
+{
+    font-size: 16px;
+}
+/* Texto Tamanho 20 */
+.Texto20
+{
+    font-size: 20px;
+}
+/* Links texto Tamanho 16 */
+.TextoAzul16
+{
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 16px;
+    color: #0072c6;
+}
